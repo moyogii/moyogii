@@ -8,8 +8,11 @@
 
 ### :art: Projects :
 **[Portfolio](https://github.com/moyogii/site-nuxt)**
+- My portfolio website showcasing my work experience & projects written using Nuxt.
 
 **[Sparrow](https://github.com/moyogii/Sparrow)**
+- An open-source AIO, multi-purpose Discord bot, that aims to provide a stable and unique feature set with high uptime and availability.
 
 **[Producer & Consumer](https://github.com/moyogii/Producer-Consumer)**
+- A proof of concept simulation written in C to learn more about threading.
 
