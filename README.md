@@ -16,3 +16,5 @@
 **[Producer & Consumer](https://github.com/moyogii/Producer-Consumer)**
 - A proof of concept simulation written in C to learn more about threading.
 
+**[SwipeLock](https://github.com/moyogii/SwipeLock)**
+- A iOS tweak for Jailbroken devices that allows you to swipe up from the homescreen to lock the device.
