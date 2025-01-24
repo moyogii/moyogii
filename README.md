@@ -7,8 +7,9 @@
 ---
 
 ### :art: Projects :
-## [Portfolio](https://github.com/moyogii/site-nuxt)  
+**[Portfolio](https://github.com/moyogii/site-nuxt)**
 
-[Sparrow](https://github.com/moyogii/Sparrow)  
+**[Sparrow](https://github.com/moyogii/Sparrow)**
 
-[Producer & Consumer](https://github.com/moyogii/Producer-Consumer)
+**[Producer & Consumer](https://github.com/moyogii/Producer-Consumer)**
+
