@@ -1,9 +1,9 @@
 ### :art: Projects :
 **[Portfolio](https://github.com/moyogii/site-nuxt)**
-- My portfolio website showcasing my work experience & projects written using Nuxt.
+- My portfolio website showcasing stuff I like to work on.
 
-**[Sparrow](https://github.com/moyogii/Sparrow)**
-- An open-source AIO, multi-purpose Discord bot, that aims to provide a stable and unique feature set with high uptime and availability.
+**[Maclight-QT](https://github.com/moyogii/maclight-qt)**
+- A fork of the popular [Moonlight](https://github.com/moonlight-stream/moonlight-qt/commits/master/) GameStream client focused purely on MacOS.
 
 **[Producer & Consumer](https://github.com/moyogii/Producer-Consumer)**
 - A proof of concept simulation written in C to learn more about threading.
